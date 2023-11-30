@@ -36,19 +36,56 @@ Switch ON the main switch
 If the output is 1, then the led glows.
 ### 
 Program:
+##FULL ADDER 
+![Screenshot 2023-11-26 142647](https://github.com/Pradeepkumar-2005/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147474038/8c3e00e4-40e3-472c-afb6-64d8ed0d60bd)
+
+
+
+##HALF ADDER 
+![Screenshot 2023-11-26 141415](https://github.com/Pradeepkumar-2005/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147474038/2854447d-34af-4614-b347-e73f470ee4ce)
+
+
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: Pradeep kumar R
+RegisterNumber:  23006358
 */
+
 Logic symbol & Truthtable
+
+##FULL ADDER
+
+![Exp3 truthtable (fa)](https://github.com/Pradeepkumar-2005/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147474038/23d936df-9001-40d1-b8c7-19a44b131621)
+
+
+##HALF ADDER
+
+![Exp3 truthtable (ha)](https://github.com/Pradeepkumar-2005/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147474038/4b457e6c-2e8d-42f5-805c-a0ef5f9eebb0)
+
+
+
+
 RTL realization
+##FULL ADDER
+
+![Screenshot 2023-11-26 142628](https://github.com/Pradeepkumar-2005/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147474038/00ebd88d-8cda-4165-a6f7-2aeff08c5c07)
+
+
+##HALF ADDER
+
+![Screenshot 2023-11-26 141354](https://github.com/Pradeepkumar-2005/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147474038/85fe8beb-2ecc-443a-8940-459c6a9df0b2)
+
+
+
 
 ### Output:
-### RTL
-### TIMING DIAGRAM
+##FULL ADDER
+
+![Screenshot 2023-11-26 142532](https://github.com/Pradeepkumar-2005/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147474038/d2c4d59d-bb79-484a-97a5-bb635335c5ca)
 
 
-### TRUTH TABLE 
+##HALF ADDER
+
+![Screenshot 2023-11-26 141326](https://github.com/Pradeepkumar-2005/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147474038/12d8ec95-0d08-4c3f-929d-fdb55c425a74)
 
 ### Result:
